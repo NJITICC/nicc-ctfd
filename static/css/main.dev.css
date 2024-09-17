@@ -10983,7 +10983,7 @@ blockquote {
   margin-top: 1rem;
 }
 .challenge-button .challenge-tags .challenge-tag:not(:first-of-type) {
-  margin-left: 1.1ch;
+  margin-left: 1ch;
 }
 
 .alert {
