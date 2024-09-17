@@ -16,8 +16,6 @@ jobs:
           node-version: '16.x'
       - name: Install dependencies
         run: yarn --frozen-lockfile
-      - name: Format
-        run: yarn format
       - name: Build
         run: yarn build
       - name: Push built files
