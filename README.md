@@ -6,7 +6,7 @@ Fork of [CTFd](https://github.com/CTFd/CTFd)'s [core theme](https://github.com/C
 
 # Installing the Theme
 
-Please refer to [CTFd's documentation](https://docs.ctfd.io/docs/themes/overview/#uploading-custom-themes). For self-hosted instances, add this repo to the `themes` directory. For CTFd hosted instances, zip up this repository and upload it to the CTFd portal. Note that only certain CTFd hosted tiers support custom themes and they require approval.
+Please refer to [CTFd's documentation](https://docs.ctfd.io/docs/themes/overview/#uploading-custom-themes). For self-hosted instances, add this repo to the `themes` directory. For CTFd hosted instances, zip up this repository (the root of the zip file must be one folder, `nicc-ctfd`, that contains the files within this repository) and upload it to the CTFd portal. Note that only certain CTFd hosted tiers support custom themes and they require approval.
 
 # Making Modifications
 
